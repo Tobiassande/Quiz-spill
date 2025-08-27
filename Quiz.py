@@ -33,3 +33,5 @@ elif poeng == 1:
     print("Du fikk 1 poeng riktig. Neste gang klarer du nok mer :)")
 elif poeng == 0:
     print("Du fikk ingen riktige, men du har forhåpetligvis lært litt :)")
+
+#programet stiller meg søprsmål når jeg svarer riktig sier koden at det er riktig, visst du får 2 av 3 riktig sier den ``nesten riktig´´. så koden skjønner visst man tar feil eller riktig. 
